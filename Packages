@@ -28,7 +28,7 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 
 Package: com.yourepo.willbraff.lighthouse
 Name: lighthouse
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: An Upcoming Beta Theme 
 Author: Willbraff <williambraffman@gmail.com>
@@ -37,5 +37,5 @@ Depends: com.anemonetheming.anemone
 Maintainer: Willbraff <williambraffman@gmail.com>
 Filename: ./debs/com.yourepo.willbraff.lighthouse.deb
 Size: 205706 
-MD5sum: 62b3325a63bf740bbb96930fce4d7b86
+MD5sum: 70fab4956ddff6e843d7a3119b67d937
 
