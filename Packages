@@ -26,11 +26,11 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-Package: com.yourepo.lighthouse
+Package: com.yourepo.willbraff.lighthouse
 Name: lighthouse
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Complete theme test. Built with YouRepo Theme Creator
+Description: An Upcoming Beta Theme 
 Author: Willbraff <williambraffman@gmail.com>
 Section: Themes
 Depends: com.anemonetheming.anemone
