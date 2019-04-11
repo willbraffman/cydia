@@ -39,7 +39,7 @@ Filename: .debs/com.braffman.neptune.deb
 Size: 37066
 MD5sum: 1487f4102289cc22073dc54ff16c212d
 
-Package: org.ppsspp.ppsspp-dev-working
+Package: org.ppsspp.ppsspp
 Name: PPSSPP
 Architecture: iphoneos-arm
 Description: A PSP emulator 
@@ -51,6 +51,7 @@ Maintainer: Henrik Rydgård
 Author: Henrik Rydgård
 Section: Games
 Version: 0v1.6.3-456-g6d0ed4ad0
+Filename: .debs/org.ppsspp.ppsspp.deb
 Size: 17258916
 MD5sum: 29016d604e5dfc3b3ca7bef166aa6b77
 
