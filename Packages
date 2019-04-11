@@ -36,8 +36,22 @@ Section: Tweaks
 Depends: mobilesubstrate, firmware(>=12.0)
 Maintainer: Duraid Abdul <iceporn007@gmail.com>
 Filename: .debs/com.braffman.neptune.deb
-Depiction: https://willbraffman.github.io/cydia/depictions/neptune
 Size: 37066
 MD5sum: 1487f4102289cc22073dc54ff16c212d
+
+Package: org.ppsspp.ppsspp-dev-working
+Name: PPSSPP
+Architecture: iphoneos-arm
+Description: A PSP emulator 
+Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-working.png
+Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp-dev-latest, org.ppsspp.ppsspp
+Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Maintainer: Henrik Rydgård
+Author: Henrik Rydgård
+Section: Games
+Version: 0v1.6.3-456-g6d0ed4ad0
+Size: 17258916
+MD5sum: 29016d604e5dfc3b3ca7bef166aa6b77
 
 
