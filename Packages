@@ -36,6 +36,6 @@ Section: Themes
 Depends: com.anemonetheming.anemone
 Maintainer: Willbraff <williambraffman@gmail.com>
 Filename: ./debs/com.yourepo.willbraff.lighthouse.deb
-Size: 386814  
+Size: 385100
 MD5sum: 3f0f7958d937616d685204808354450c
 
