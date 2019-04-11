@@ -26,6 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-
-
+Package: com.yourepo.test
+Name: test
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Complete theme test. Built with YouRepo Theme Creator
+Author: Willbraff <williambraffman@gmail.com>
+Section: Themes
+Depends: com.anemonetheming.anemone
+Maintainer: Willbraff <williambraffman@gmail.com>
+Filename: ./debs/com.yourepo.willbraff.test.deb
+Size: 124292
+MD5sum: 299d017cb835fe1ab2eeaeab6057caf8
 
