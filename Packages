@@ -26,3 +26,18 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.braffman.neptune
+Name: Neptune
+Version: 1.0.0-22
+Architecture: iphoneos-arm
+Description: Enable Apple's modern fluid gestural interface on all devices.
+Author: Duraid Abdul <iceporn007@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, firmware(>=12.0)
+Maintainer: Duraid Abdul <iceporn007@gmail.com>
+Filename: .debs/com.braffman.neptune.deb
+Depiction: https://willbraffman.github.io/cydia/depictions/neptune
+Size: 37066
+MD5sum: 1487f4102289cc22073dc54ff16c212d
+
+

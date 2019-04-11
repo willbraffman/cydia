@@ -1,0 +1,23 @@
+<package>
+	<id>com.braffman.neptune</id>
+	<name>Neptune</name>
+	<version>1.0.0-22</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate, firmware(>=12.0)</dependencies>
+	<descriptionlist>
+		<description>Enable Apple's modern fluid gestural interface on all devices.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
