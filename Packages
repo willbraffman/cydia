@@ -1,6 +1,6 @@
 Package: com.yourepo.willbraff.lighthouse
-Name: lighthouse
-Version: 1.2
+Name: Lighthouse
+Version: 1.2.1
 Architecture: iphoneos-arm
 Description: An Upcoming Beta Theme 
 Author: Willbraff <williambraffman@gmail.com>
@@ -8,7 +8,7 @@ Section: Themes
 Depends: com.anemonetheming.anemone
 Maintainer: Willbraff <williambraffman@gmail.com>
 Filename: ./debs/com.yourepo.willbraff.lighthouse.deb
-Size: 385100
+Size: 483250
 Depiction: https://lhcydia.weebly.com/lighthouse.html
-MD5sum: 3f0f7958d937616d685204808354450c
+MD5sum: 90ba16e37fd5ed353f9f6f73e959f3c2
 
