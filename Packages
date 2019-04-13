@@ -12,3 +12,17 @@ Size: 483250
 Depiction: https://lhcydia.weebly.com/lighthouse.html
 MD5sum: 90ba16e37fd5ed353f9f6f73e959f3c2
 
+Package: com.yourepo.willbraff.gradient
+Name: Gradient
+Version: 1.0
+Architecture: iphoneos-arm
+Description Gradient Theme for iOS 7-12
+Author: wbraffman <williambraffman@gmail.com>
+Section: Themes
+Depends: com.anemonetheming.anemone
+Maintainer: wbraffman <williambraffman@gmail.com>
+Filename: ./debs/com.yourepo.willbraff.gradient.deb
+Size: 12845474
+Depiction: https://lhcydia.weebly.com/
+MD5sum: 21beb1dd651b8b6ea3aed9dc513995f0
+
