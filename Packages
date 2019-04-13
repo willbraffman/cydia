@@ -5,9 +5,8 @@ Architecture: iphoneos-arm
 Description Gradient Theme for iOS 7-12
 Author: wbraffman <williambraffman@gmail.com>
 Section: Themes
-Depends: com.anemonetheming.anemone
 Maintainer: wbraffman <williambraffman@gmail.com>
 Filename: ./debs/com.yourepo.willbraff.gradient.deb
-Size: 12845474
-MD5sum: 8626a066ad30ba644e5a9a4269733019
+Size: 12622886
+MD5sum: 47bd3af2d048868d1608a770f3bc0210
 
