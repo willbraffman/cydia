@@ -1,6 +1,6 @@
 Package: com.yourepo.willbraff.gradient
 Name: Gradient
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description Gradient Theme for iOS 7-12
 Author: willbraff <williambraffman@gmail.com>
@@ -8,6 +8,6 @@ Section: Themes
 Maintainer: willbraff <williambraffman@gmail.com>
 Depiction: https://willbraffman.github.io/cydia/depictions/?p=com.yourepo.willbraff.gradient
 Filename: ./debs/com.yourepo.willbraff.gradient.deb
-Size: 12583280
-MD5sum: 8680c392e0d4f16617ef1fde36a1656b
+Size: 12582600
+MD5sum: c5ef03fb4105db6412e0dd1b416795e6
 

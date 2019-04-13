@@ -1,7 +1,7 @@
 <package>
 	<id>com.yourepo.willbraff.gradient</id>
 	<name>Gradient</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOSiOS>
@@ -18,6 +18,7 @@
 	<screenshots></screenshots>
 	<changelog>
 		<change>Initial release</change>
+		<change>Fix Update</change>
 	</changelog>
 	<links></links>
 </package>
