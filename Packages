@@ -3,10 +3,10 @@ Name: Gradient
 Version: 1.0
 Architecture: iphoneos-arm
 Description Gradient Theme for iOS 7-12
-Author: wbraffman <williambraffman@gmail.com>
+Author: willbraff <williambraffman@gmail.com>
 Section: Themes
-Maintainer: wbraffman <williambraffman@gmail.com>
+Maintainer: willbraff <williambraffman@gmail.com>
 Filename: ./debs/com.yourepo.willbraff.gradient.deb
-Size: 12622886
-MD5sum: 47bd3af2d048868d1608a770f3bc0210
+Size: 12583280
+MD5sum: 8680c392e0d4f16617ef1fde36a1656b
 
