@@ -11,8 +11,8 @@ SHA256: e90ce4d1be95b44659e5b2deaba4ca26d3b7a7526ef02c486ee68c6fef9b7dc9
 Section: Themes
 Description: Gradient Theme for iOS 7-12
 Author: Willbraff <williambraffman@gmail.com>
-Depiction: /Users/willbraffman/Documents/cydia/depictions/Gradient/index.html
-SileoDepiction: /Users/willbraffman/Documents/cydia/depictions/Gradient/index.html
+Depiction: https://willbraffman.github.io/GD
+SileoDepiction: https://willbraffman.github.io/GD
 Name: Gradient
 
 Package: com.yourepo.willbraff.clean
