@@ -13,3 +13,14 @@ Description: Gradient Theme for iOS 7-12
 Author: Willbraff <williambraffman@gmail.com>
 Name: Gradient
 
+Package: com.yourepo.willbraff.clean
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: Willbraff <williambraffman@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.yourepo.willbraff.clean.deb
+Size: 3039178
+Section: Themes
+Description: Clean Theme for iOS 7-12
+Author: Willbraff <williambraffman@gmail.com>
+Name: Clean
