@@ -12,6 +12,7 @@ Section: Themes
 Description: Gradient Theme for iOS 7-12
 Author: Willbraff <williambraffman@gmail.com>
 Depiction: /Users/willbraffman/Documents/cydia/depictions/Gradient/index.html
+SileoDepiction: /Users/willbraffman/Documents/cydia/depictions/Gradient/index.html
 Name: Gradient
 
 Package: com.yourepo.willbraff.clean
