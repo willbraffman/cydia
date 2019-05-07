@@ -12,6 +12,7 @@ Section: Themes
 Description: Gradient Theme for iOS 7-12
 Author: Willbraff <williambraffman@gmail.com>
 Depiction: https://willbraffman.github.io/GD
+SileoDepiction: https://willbraffman.github.io/GD
 Name: Gradient
 
 Package: com.yourepo.willbraff.clean
