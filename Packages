@@ -20,6 +20,7 @@ Maintainer: Willbraff <williambraffman@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.yourepo.willbraff.clean.deb
 Size: 3039178
+MD5sum: 11635d5352430cd5a2b96d92f5c3d4df
 Section: Themes
 Description: Clean Theme for iOS 7-12
 Author: Willbraff <williambraffman@gmail.com>
