@@ -12,6 +12,7 @@ Section: Themes
 Description: Gradient Theme for iOS 7-12
 Author: Willbraff <williambraffman@gmail.com>
 Depiction: https://willbraffman.github.io/GD
+Icon: https://github.com/willbraffman/GD/blob/gh-pages/Icon.png?raw=true
 Name: Gradient
 
 Package: com.yourepo.willbraff.clean
@@ -42,3 +43,4 @@ Description: Enable Apple's modern fluid gestural interface on all devices.
 Author: Duraid Abdul <feedback.100@icloud.com>
 Depiction: https://willbraffman.github.io/ND
 Name: Neptune For iPhone
+Icon: https://github.com/willbraffman/ND/blob/gh-pages/com.duraidabdul.neptune.png
