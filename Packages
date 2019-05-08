@@ -38,4 +38,5 @@ MD5sum: ea28440422ce3064f37db242e76055ea
 Sections: Tweaks
 Description: Enable Apple's modern fluid gestural interface on all devices.
 Author: Duraid Abdul <feedback.100@icloud.com>
+Depictions: https://willbraffman.github.io/ND
 Name: Neptune For iPhone
