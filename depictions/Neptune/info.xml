@@ -1,0 +1,25 @@
+<package>
+	<id>com.duraidabdul.neptune</id>
+	<name>Neptune For iPhone</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOSiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Enable Apple's modern fluid gestural interface on all devices.
+Depiction
+</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
