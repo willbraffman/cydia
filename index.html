@@ -1,65 +1,72 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Will Braffman's Repo</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+
+    
+    
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+
+    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
+    <link href="css/ionic.app.css" rel="stylesheet">
+    -->
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+
+    <style type="text/css">
+      .platform-ios .manual-ios-statusbar-padding{
+        padding-top:20px;
+      }
+      .manual-remove-top-padding{
+        padding-top:0px; 
+      }
+      .manual-remove-top-padding .scroll{
+        padding-top:0px !important;
+      }
+      ion-list.manual-list-fullwidth div.list, .list.card.manual-card-fullwidth {
+        margin-left:-10px;
+        margin-right:-10px;
+      }
+      ion-list.manual-list-fullwidth div.list > .item, .list.card.manual-card-fullwidth > .item {
+        border-radius:0px;
+        border-left:0px;
+        border-right: 0px;
+      }
+      .show-list-numbers-and-dots ul{
+        list-style-type: disc;
+        padding-left:40px;
+      }
+      .show-list-numbers-and-dots ol{
+        list-style-type: decimal;
+        padding-left:40px;
+      }
+    </style>
+
+    <script src="js/app.js"></script>
+    <script src="js/controllers.js"></script>
+    <script src="js/routes.js"></script>
+    
+    <script src="js/directives.js"></script>
+    <script src="js/services.js"></script>
+
+    <!-- Only required for Tab projects w/ pages in multiple tabs 
+    <script src="lib/ionicuirouter/ionicUIRouter.js"></script>
+    -->
+
   </head>
-<body>
-
+  <body ng-app="app" animation="slide-left-right-ios7">
+  <div>
+  <div>
+    <ion-nav-bar class="bar-stable">
+      <ion-nav-back-button></ion-nav-back-button>
+    </ion-nav-bar>
+    <ion-nav-view></ion-nav-view>
+  </div>
 </div>
-
-<div class="container">
-	<div class="well">
-		<p><span class="text-primary"><b>willbraffman</span></b> is a Cydia repository.</p>
-		<img src="https://github.com/willbraffman/cydia/blob/gh-pages/CydiaIcon.png?raw=true" alt="Will Braffman" width="100" height="100">
-		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://willbraffman.github.io/cydia/">Add to Cydia</a>
-		<a class="btn btn-sm btn-default" href="sileo://source/https://willbraffman.github.io/cydia/">Add to Sileo</a>
-	</div>
-</div>
-
-<div class="container">
-  <h3 id="wells" class="page-header">Featured Packages</h3>
-</div>
-
-<div class="container">
-	<div class="panel panel-default">
-	  <div class="panel-heading">Gradient</div>
-	  <div class="panel-body">
-		Gradient is a beta theme.<br /><br />
-		<a class="btn btn-xs btn-default" href="https://github.com/willbraffman/cydia/raw/gh-pages/debs/com.yourepo.willbraff.gradient.deb">Download</a>
-	  </div>
-	</div>
-</div>
-
-<div class="container">
-	<div class="panel panel-default">
-	  <div class="panel-heading">Clean</div>
-	  <div class="panel-body">
-		Clean is a beta theme.<br /><br />
-		<a class="btn btn-xs btn-default" href="https://github.com/willbraffman/cydia/raw/gh-pages/debs/com.yourepo.willbraff.gradient.deb">Download</a>
-	  </div>
-	</div>
-</div>
-
-<div class="container">
-  <h3 id="wells" class="page-header">Borrowed Packages</h3>
-</div>
-
-<div class="container">
-	<ul>I DO NOT TAKE CREDIT FOR THESE</ul>
-</div>
-
-<div class="container">
-	<div class="panel panel-default">
-		<div class="panel-heading">Neptune For iPhone</div>
-		<div class="panel-body">Enable Apple's modern fluid gestural interface on all devices.<br /><br />
-			<a class="btn btn-xs btn-default" href="https://github.com/willbraffman/cydia/raw/gh-pages/debs/neptuneforiphone_1.2.deb">Download</a>
-		</div>
-	</div>
-</div>
-
-</body>
+  </body>
 </html>
