@@ -42,5 +42,6 @@ Section: Tweaks
 Description: Enable Apple's modern fluid gestural interface on all devices.
 Author: Duraid Abdul <feedback.100@icloud.com>
 Depiction: https://willbraffman.github.io/ND
+SileoDepiction: https://github.com/willbraffman/ND/blob/gh-pages/Sileo.html
 Name: Neptune For iPhone
 Icon: https://github.com/willbraffman/ND/blob/gh-pages/com.duraidabdul.neptune.png?raw=true
