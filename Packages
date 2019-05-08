@@ -27,14 +27,14 @@ Description: Clean Theme for iOS 7-12
 Author: Willbraff <williambraffman@gmail.com>
 Name: Clean
 
-Package: com.duraidabdul.neptune
+Package: com.braffman.neptune
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: willbraffman <williambraffman@gmail.com>
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.duraidabdul.neptune.deb
+Filename: ./debs/neptuneforiphone_1.2.deb
 Size: 148292
-MD5sum: a7260923d684ee5ec2fe993f86402c64
+MD5sum: 7aad74f70bb58047c392aed4de680b0d
 Section: Tweaks
 Description: Enable Apple's modern fluid gestural interface on all devices.
 Author: Duraid Abdul <feedback.100@icloud.com>
