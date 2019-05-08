@@ -12,7 +12,6 @@ Section: Themes
 Description: Gradient Theme for iOS 7-12
 Author: Willbraff <williambraffman@gmail.com>
 Depiction: https://willbraffman.github.io/GD
-SileoDepiction: https://willbraffman.github.io/GD
 Name: Gradient
 
 Package: com.yourepo.willbraff.clean
@@ -27,3 +26,16 @@ Section: Themes
 Description: Clean Theme for iOS 7-12
 Author: Willbraff <williambraffman@gmail.com>
 Name: Clean
+
+Package: com.duraidabdul.neptune
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.duraidabdul.neptune.deb
+Size: 148292
+MD5sum: ea28440422ce3064f37db242e76055ea
+Sections: Tweaks
+Description: Enable Apple's modern fluid gestural interface on all devices.
+Author: Duraid Abdul <feedback.100@icloud.com>
+Name: Neptune For iPhone
