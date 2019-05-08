@@ -35,7 +35,7 @@ Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.duraidabdul.neptune.deb
 Size: 148292
 MD5sum: ea28440422ce3064f37db242e76055ea
-Sections: Tweaks
+Section: Tweaks
 Description: Enable Apple's modern fluid gestural interface on all devices.
 Author: Duraid Abdul <feedback.100@icloud.com>
 Depictions: https://willbraffman.github.io/ND
