@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>{&#13;</para>
+  <para>    "headerImage": "https://github.com/willbraffman/cydia/blob/gh-pages/img/4PnxgfATKmghccx5mXEg_Icon.png",&#13;</para>
+  <para>    "tabs": [&#13;</para>
+  <para>        {&#13;</para>
+  <para>            "class": "DepictionStackView",&#13;</para>
+  <para>            "views": [&#13;</para>
+  <para>                {&#13;</para>
+  <para>                    "useBoldText": true,&#13;</para>
+  <para>                    "class": "DepictionSubheaderView",&#13;</para>
+  <para>                    "title": "Clean",&#13;</para>
+  <para>                    "useBottomMargin": false&#13;</para>
+  <para>                },&#13;</para>
+  <para>                {&#13;</para>
+  <para>                    "markdown": "A Clean Theme for iOS 7-12",&#13;</para>
+  <para>                    "useSpacing": true,&#13;</para>
+  <para>                    "class": "DepictionMarkdownView"&#13;</para>
+  <para>                },&#13;</para>
+  <para>                {&#13;</para>
+  <para>                    "class": "DepictionSpacerView",&#13;</para>
+  <para>                    "spacing": 8&#13;</para>
+  <para>                },&#13;</para>
+  <para>                {&#13;</para>
+  <para>                    "class": "DepictionScreenshotsView",&#13;</para>
+  <para>                    "itemSize": "{160, 275.41333333333336}",&#13;</para>
+  <para>                    "screenshots": [&#13;</para>
+  <para>                        {&#13;</para>
+  <para>                            "url": "https://github.com/willbraffman/cydia/blob/gh-pages/img/4PnxgfATKmghccx5mXEg_Icon.png",&#13;</para>
+  <para>                            "accessibilityText": "Screenshot0"&#13;</para>
+  <para>                        }&#13;</para>
+  <para>                    ],&#13;</para>
+  <para>                    "itemCornerRadius": 6&#13;</para>
+  <para>                },&#13;</para>
+  <para>                {&#13;</para>
+  <para>                    "useBoldText": true,&#13;</para>
+  <para>                    "class": "DepictionMarkdownView",&#13;</para>
+  <para>                    "markdown": "Clean is a theme for iOS 7-12 still under development.",&#13;</para>
+  <para>                    "title": "markdown-description",&#13;</para>
+  <para>                    "useBottomMargin": false&#13;</para>
+  <para>                },&#13;</para>
+  <para>                {&#13;</para>
+  <para>                    "class": "DepictionSeparatorView"&#13;</para>
+  <para>                },&#13;</para>
+  <para>                {&#13;</para>
+  <para>                    "class": "DepictionTableTextView",&#13;</para>
+  <para>                    "title": "Version",&#13;</para>
+  <para>                    "text": "1.1.4"&#13;</para>
+  <para>                },&#13;</para>
+  <para>                {&#13;</para>
+  <para>                    "class": "DepictionTableTextView",&#13;</para>
+  <para>                    "title": "Released",&#13;</para>
+  <para>                    "text": "05-09-2019"&#13;</para>
+  <para>                },&#13;</para>
+  <para>                {&#13;</para>
+  <para>                    "class": "DepictionTableTextView",&#13;</para>
+  <para>                    "title": "Price",&#13;</para>
+  <para>                    "text": "Free"&#13;</para>
+  <para>                },&#13;</para>
+  <para>                {&#13;</para>
+  <para>                    "class": "DepictionSpacerView",&#13;</para>
+  <para>                    "spacing": 8&#13;</para>
+  <para>                },&#13;</para>
+  <para>                {&#13;</para>
+  <para>                    "class": "DepictionTableTextView",&#13;</para>
+  <para>                    "title": "Developer",&#13;</para>
+  <para>                    "text": "William Braffman"&#13;</para>
+  <para>                },&#13;</para>
+  <para>                {&#13;</para>
+  <para>                    "class": "DepictionSpacerView",&#13;</para>
+  <para>                    "spacing": 8&#13;</para>
+  <para>                }&#13;</para>
+  <para>            ],&#13;</para>
+  <para>            "tabname": "Details"&#13;</para>
+  <para>        }&#13;</para>
+  <para>    ],&#13;</para>
+  <para>    "class": "DepictionTabView",&#13;</para>
+  <para>    "tintColor": "#0657bb",&#13;</para>
+  <para>    "minVersion": "0.1"&#13;</para>
+  <para>}</para>
+</article>
