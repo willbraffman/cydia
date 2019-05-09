@@ -28,6 +28,7 @@ Description: Clean Theme for iOS 7-12
 Author: Willbraff <williambraffman@gmail.com>
 Name: Clean
 Depiction: https://willbraffman.github.io/CD
+SileoDepiction: https://github.com/willbraffman/cydia/blob/gh-pages/depictions/Clean/SD.txt
 Icon: https://github.com/willbraffman/CD/blob/gh-pages/Icon.png?raw=true
 
 Package: com.braffman.neptune
