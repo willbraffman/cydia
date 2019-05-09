@@ -1,0 +1,78 @@
+{
+    "headerImage": "https://github.com/willbraffman/cydia/blob/gh-pages/img/4PnxgfATKmghccx5mXEg_Icon.png",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "useBoldText": true,
+                    "class": "DepictionSubheaderView",
+                    "title": "Clean",
+                    "useBottomMargin": false
+                },
+                {
+                    "markdown": "A Clean Theme for iOS 7-12",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "url": "https://github.com/willbraffman/cydia/blob/gh-pages/img/4PnxgfATKmghccx5mXEg_Icon.png",
+                            "accessibilityText": "Screenshot0"
+                        }
+                    ],
+                    "itemCornerRadius": 6
+                },
+                {
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Clean is a theme for iOS 7-12 still under development.",
+                    "title": "markdown-description",
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.1.4"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Released",
+                    "text": "05-09-2019"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Price",
+                    "text": "Free"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "William Braffman"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ],
+            "tabname": "Details"
+        }
+    ],
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "minVersion": "0.1"
+}
