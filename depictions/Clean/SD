@@ -71,6 +71,7 @@
             ],
             "tabname": "Details"
         }
+{"tabname":"Changelog","views":[{"title":"Version 1.1.4","useBoldText":true,"useBottomMargin":true,"class":"DepictionStackView"},{"markdown":"Initial Beta Release.","useSpacing":false,"class":"DepictionMarkdownView"},{"markdown":"<small style=\"color: #999; margin-top:-8px;\">Released 2019-5-9-1</small>","useRawFormat":true, "class":"DepictionMarkdownView"},{"class":"DepictionSeparatorView"}
     ],
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
