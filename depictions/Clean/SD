@@ -94,10 +94,9 @@
       "class": "DepictionStackView"
     }
   ],
-  "class": "DepictionTabView"
-}
   
- ],
+  
+
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
     "minVersion": "0.1"
