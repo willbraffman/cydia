@@ -1,5 +1,5 @@
 {
-    "headerImage": "https://github.com/willbraffman/cydia/blob/gh-pages/img/4PnxgfATKmghccx5mXEg_Icon.png",
+    "headerImage": "https://raw.githubusercontent.com/willbraffman/cydia/gh-pages/img/4PnxgfATKmghccx5mXEg_Icon.png",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -24,7 +24,7 @@
                     "itemSize": "{160, 275.41333333333336}",
                     "screenshots": [
                         {
-                            "url": "https://github.com/willbraffman/cydia/blob/gh-pages/img/4PnxgfATKmghccx5mXEg_Icon.png",
+                            "url": "https://raw.githubusercontent.com/willbraffman/cydia/gh-pages/img/4PnxgfATKmghccx5mXEg_Icon.png",
                             "accessibilityText": "Screenshot0"
                         }
                     ],
