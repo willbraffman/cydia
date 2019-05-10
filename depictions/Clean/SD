@@ -1,80 +1,87 @@
 {
-    "headerImage": "https://raw.githubusercontent.com/willbraffman/cydia/gh-pages/img/4PnxgfATKmghccx5mXEg_Icon.png",
-    "tabs": [
+  "minVersion": "0.1",
+  "headerImage": "https://raw.githubusercontent.com/willbraffman/cydia/gh-pages/img/4PnxgfATKmghccx5mXEg_Icon.png",
+  "tintColor": "#0657bb",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
         {
-            "class": "DepictionStackView",
-            "views": [
-                {
-                    "useBoldText": true,
-                    "class": "DepictionSubheaderView",
-                    "title": "Clean",
-                    "useBottomMargin": false
-                },
-                {
-                    "markdown": "A Clean Theme for iOS 7-12",
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionScreenshotsView",
-                    "itemSize": "{160, 275.41333333333336}",
-                    "screenshots": [
-                        {
-                            "url": "https://raw.githubusercontent.com/willbraffman/cydia/gh-pages/img/4PnxgfATKmghccx5mXEg_Icon.png",
-                            "accessibilityText": "Screenshot0"
-                        }
-                    ],
-                    "itemCornerRadius": 6
-                },
-                {
-                    "useBoldText": true,
-                    "class": "DepictionMarkdownView",
-                    "markdown": "A Clean Theme for iOS 7-12",
-                    "title": "markdown-description",
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Version",
-                    "text": "1.1.4"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Released",
-                    "text": "05-09-2019"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Price",
-                    "text": "Free"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Developer",
-                    "text": "William Braffman"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                }
-            ],
-            "tabname": "Details"
+          "title": "Clean",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
         },
- 
-  
- ],
-    "class": "DepictionTabView",
-    "tintColor": "#0657bb",
-    "minVersion": "0.1"
+        {
+          "markdown": "A Clean Theme for iOS 7-12",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.1.4",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Released",
+          "text": "2019/05/09",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "William Braffman",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Contact Support",
+          "action": "https://willbraffman.github.io/cydia",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "1.1.4",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Initial Beta Release",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/13</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
 }
