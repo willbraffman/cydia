@@ -70,7 +70,24 @@
                 }
             ],
             "tabname": "Details"
-        },{"class": "DepictionStackView", "views": [{"class": "DepictionMarkdownView", "markdown": "Version 1.1.4-1 Initial Beta Release"}, {"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 04/05/2019</small>","useRawFormat": true,"class": "DepictionMarkdownView"},{"class":"DepictionSeparatorView"},{"class": "DepictionMarkdownView", "tabname": "Changelog"}
+        },
+	{
+		"class": "DepictionStackView", 
+		"views": [
+	{
+		"class": "DepictionMarkdownView", "markdown": "Version 1.1.4-1 Initial 			Beta Release"
+	}, 
+	{
+		"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 			04/05/2019</small>","useRawFormat": true,"class": 		"DepictionMarkdownView"
+	},
+	{
+		"class":"DepictionSeparatorView"
+	},
+	{
+		"class": "DepictionMarkdownView"
+	}	
+  },
+  "tabname": "Changelog"
 
     ],
     "class": "DepictionTabView",
