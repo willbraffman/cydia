@@ -81,8 +81,7 @@
                     "useBottomMargin": false
                 },
                 {
-                    "markdown": "Version 1.1.4
-Initial Beta Release",
+                    "markdown": "A Clean Theme for iOS 7-12",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -90,12 +89,53 @@ Initial Beta Release",
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 }
-             
+                
                     ],
-                              "tabname": "Changelog"
+                    "itemCornerRadius": 6
+                },
+                {
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "A Clean Theme for iOS 7-12",
+                    "title": "markdown-description",
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.1.4"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Released",
+                    "text": "05-09-2019"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Price",
+                    "text": "Free"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "William Braffman"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ],
+            "tabname": "Changelog"
         }
-
-    ],
+   
+ ],
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
     "minVersion": "0.1"
