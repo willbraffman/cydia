@@ -12,7 +12,7 @@ Section: Themes
 Description: Gradient Theme for iOS 7-12
 Author: Willbraff <williambraffman@gmail.com>
 Depiction: https://willbraffman.github.io/GD
-SileoDepiction: https://github.io/willbraffman/cydia/blob/gh-pages/depictions/Gradient/Sd/json
+SileoDepiction: https://raw.githubusercontent.com/willbraffman/cydia/gh-pages/depictions/Gradient/Sd.json
 Icon: https://github.com/willbraffman/GD/blob/gh-pages/Icon.png?raw=true
 Name: Gradient
 
