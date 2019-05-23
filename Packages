@@ -51,6 +51,7 @@ Package: com.wbraffman.sleek
 Name: Sleek
 Architecture: phoneos-arm
 Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.wbraffman.sleek.deb
 Description: A sleek theme for iOS 7-12
 Maintainer: wbraffman <wbraffman@gmail.com>
 Author: wbraffman <wbraffman@gmail.com>
