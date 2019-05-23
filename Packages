@@ -46,3 +46,16 @@ Author: Duraid Abdul <feedback.100@icloud.com>
 Depiction: https://willbraffman.github.io/ND
 Name: Neptune For iPhone
 Icon: https://github.com/willbraffman/ND/blob/gh-pages/com.duraidabdul.neptune.png?raw=true
+
+Package: com.wbraffman.sleek
+Name: Sleek
+Architecture: phoneos-arm
+Depends: firmware (>7.0), mobilesubstrate
+Description: A sleek theme for iOS 7-12
+Maintainer: wbraffman <wbraffman@gmail.com>
+Author: wbraffman <wbraffman@gmail.com>
+Section: Themes
+Depiction: https://wbraffman.github.io/repo/
+Version: 1.6
+Size: 1871546
+MD5sum: 0f42bd8b522026d1a1788d9b7fc81010
